@@ -1,0 +1,98 @@
+{
+  "projects": [
+    {
+      "name": "Van Gogh Univers",
+      "imageUrl": "@/assets/van-gogh.png",
+      "languages": ["HTML", "CSS", "JavaScript", "React.JS", "Tailwind.css", "Material Tailwind", "NPM", "Figma", "GIT"],
+      "siteUrl": "https://josephkawe.github.io/van-gogh-univers/",
+      "siteRepository": "https://github.com/JosephKawe/van-gogh-univers",
+      "id": 1
+    },
+    {
+      "name": "Weather App",
+      "imageUrl": "@/assets/weather-app.png",
+      "languages": ["HTML", "CSS", "JavaScript", "React.JS", "Tailwind.css", "Material Tailwind", "NPM", "API"],
+      "siteUrl": "https://josephkawe.github.io/weather-app/",
+      "siteRepository": "",
+      "id": 2
+    },
+    {
+      "name": "Tic Tac Toe",
+      "imageUrl": "@/assets/tic-tac-toe.png",
+      "languages": ["HTML", "CSS", "JavaScript", "React.JS", "NPM"],
+      "siteRepository": "https://github.com/JosephKawe/tic_tac_toe",
+      "siteUrl": "https://josephkawe.github.io/tic_tac_toe/",
+      "id": 3
+    },
+    {
+      "name": "Age Calculator",
+      "imageUrl": "@/assets/age_calculator.png",
+      "languages": ["HTML", "CSS", "JavaScript", "Vue.JS", "TypeScript" , "Tailwind.css"],
+      "siteRepository": "",
+      "siteUrl": "https://khk-age-calculator.netlify.app/",
+      "id": 4
+    },
+    {
+      "name": "Calculator",
+      "imageUrl": "@/assets/calculadora.png",
+      "languages": ["HTML", "CSS", "JavaScript", "Tailwind.css"],
+      "siteRepository": "",
+      "siteUrl": "https://josephkawe.github.io/Calculadora/",
+      "id": 5
+    },
+    {
+      "name": "HelpDesk App",
+      "imageUrl": "@/assets/help_desk.png",
+      "languages": ["HTML", "CSS", "PHP", "Tailwind.css"],
+      "siteUrl": "https://josephkawe.github.io/Calculadora/",
+      "siteRepository": "https://github.com/JosephKawe/help_desk/tree/main/app_help_desk",
+      "id": 6,
+      "viewStatus": "disabled"
+    },
+    {
+      "name": "Personal Budget App",
+      "imageUrl": "@/assets/app_budget.png",
+      "languages": ["HTML", "CSS", "PHP", "Tailwind.css"],
+      "siteUrl": "https://github.com/JosephKawe/app-personal-budget",
+      "siteRepository": "https://josephkawe.github.io/app-personal-budget/",
+      "id": 7,
+      "viewStatus": "disabled"
+    },
+    {
+      "name": "Todolist",
+      "imageUrl": "@/assets/help_desk.png",
+      "languages": ["Java", "API", "Spring"],
+      "siteUrl": "https://github.com/JosephKawe/app-personal-budget",
+      "siteRepository": "https://josephkawe.github.io/app-personal-budget/",
+      "id": 8,
+      "viewStatus": "disabled"
+    }
+
+  ],
+  "languageIcons": [
+    { "id": 1, "name": "HTML", "path": "@/assets/html_icon.png" },
+    { "id": 2, "name": "CSS", "path": "@/assets/css_icon.png" },
+    { "id": 3, "name": "PHP", "path": "@/assets/php_icon.png" },
+    { "id": 4, "name": "JavaScript", "path": "@/assets/js_icon.png" },
+    { "id": 5, "name": "TypeScript", "path": "@/assets/ts_icon.png" },
+    { "id": 6, "name": "React.JS", "path": "../src/assets/react_icon.png" },
+    { "id": 7, "name": "Vue.JS", "path": "@/assets/vue_icon.png" },
+    { "id": 8, "name": "Node.JS", "path": "@/assets/node_icon.png" },
+    { "id": 9, "name": "SASS", "path": "@/assets/sass_icon.png" },
+    { "id": 10, "name": "Figma", "path": "@/assets/figma_icon.png" },
+    { "id": 12, "name": "NPM", "path": "@/assets/npm_icon.png" },
+    { "id": 13, "name": "Tailwind.css", "path": "@/assets/tailwind_icon.png" },
+    { "id": 14, "name": "GIT", "path": "@/assets/git_icon.png" },
+    { "id": 15, "name": "mySQL", "path": "@/assets/mySQL_icon.png" },
+    { "id": 16, "name": "Laravel", "path": "@/assets/laravel_icon.png" },
+    { "id": 17, "name": "API", "path": "@/assets/api_icon.png" },
+    { "id": 18, "name": "Jquerry", "path": "@/assets/jquerry_icon.png" },
+    { "id": 19, "name": "GitHub", "path": "@/assets/github_icon.png" },
+    { "id": 20, "name": "WordPress", "path": "@/assets/wordpress_icon.png" },
+    { "id": 21, "name": "Bootstrap", "path": "@/assets/bootstrap_icon.png" },
+    { "id": 22, "name": "AWS", "path": "@/assets/aws_icon.png" },
+    { "id": 23, "name": "Java", "path": "@/assets/java_icon.png" },
+    { "id": 24, "name": "Maven", "path": "@/assets/maven_icon.png" },
+    { "id": 25, "name": "Spring", "path": "@/assets/spring_icon.png" }
+  ]
+}
